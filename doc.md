@@ -1,6 +1,6 @@
 # BOOK API
 
-> This is API for Authors to pulish their books 
+> This is API for Users to save contact's name , email and phone number 
 
 ## Create Book
 
