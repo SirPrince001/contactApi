@@ -1,8 +1,8 @@
-# BOOK API
+# User Contact API
 
 > This is API for Users to save contact's name , email and phone number 
 
-## Create Book
+## Create User
 
 > This is use to create a new user to be store in the database
 - **ENDPOINT :**   `https://users-contact-api.herokuapp.com/api/v1/create-user`
